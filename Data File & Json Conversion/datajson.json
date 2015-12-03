@@ -1,0 +1,38 @@
+{
+  "id": 64733,
+  "name": "Trending QuizUp Topics",
+  "filter criteria": "Top used places",
+  "logo": "trend.jpeg",
+  "topics": [
+    {
+      "name": "Football",
+      "logo": "Foot.jpg",
+      "id": 37827,
+      "category": "Sports"
+    },
+    {
+      "name": "Baseball",
+      "logo": "Foot.jpg",
+      "id": 37827,
+      "category": "Sports"
+    },
+    {
+      "name": "Cricket Records & History",
+      "logo": "Foot.jpg",
+      "id": 37827,
+      "category": "Sports"
+    },
+    {
+      "name": "Football",
+      "logo": "Foot.jpg",
+      "id": 37827,
+      "category": "Sports"
+    },
+    {
+      "name": "Cricket Records and History",
+      "logo": "Foot.jpg",
+      "id": 37827,
+      "category": "Sports"
+    }
+  ]
+}
