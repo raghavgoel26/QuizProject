@@ -9,6 +9,10 @@
   var l=data.length;
   //console.log(l);
 
+  var temp=data[0]["Topic Category"];
+  var x=$('.navbar #heading-name');
+  x.text(temp);
+
  for(i=0;i<9;++i)
  {
     var temp=data[i]["Topic Name"];
